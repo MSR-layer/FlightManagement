@@ -8,7 +8,6 @@
  * 
  * @param i 
  * @return int
- * @author 200201137 Marah Alasi - 180201144 Fatina Bagume 
  * 
  * 
  */
